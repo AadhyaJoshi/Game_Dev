@@ -12,3 +12,11 @@ Your aim is to pocket all object balls using the cue ball. You get 3 lives and l
 - <b>Tech stack:</b> Pygame and Pymunk libraries in python.<br>
 - <b>Preview:</b><br>
 ![pool](./images/pool_preview.png)
+
+### Game 2: Squash
+A single player squash game, to make you a pro at squash!<br>
+You have to maintain a streak by continuously hitting the ball. Better yoursekf with each game, and beat your own high score!<br>
+- <b>Installation:</b> Open the "squash" directory and run "python main.py" command in the terminal.<br>
+- <b>Tech stack:</b> Pygame and random libraries in python.<br>
+- <b>Preview:</b><br>
+![squash](./images/squash_preview.png)
